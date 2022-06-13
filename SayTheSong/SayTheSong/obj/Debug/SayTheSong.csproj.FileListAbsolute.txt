@@ -1,0 +1,8 @@
+d:\documents\visual studio 2010\Projects\SayTheSong\SayTheSong\SayTheSong\obj\Debug\Interop.SpeechLib.dll
+d:\documents\visual studio 2010\Projects\SayTheSong\SayTheSong\SayTheSong\obj\Debug\SayTheSong.csproj.ResolveComReference.cache
+d:\documents\visual studio 2010\Projects\SayTheSong\SayTheSong\SayTheSong\bin\Debug\SayTheSong.dll
+d:\documents\visual studio 2010\Projects\SayTheSong\SayTheSong\SayTheSong\bin\Debug\SayTheSong.pdb
+d:\documents\visual studio 2010\Projects\SayTheSong\SayTheSong\SayTheSong\obj\Debug\SayTheSong.dll
+d:\documents\visual studio 2010\Projects\SayTheSong\SayTheSong\SayTheSong\obj\Debug\SayTheSong.pdb
+d:\documents\visual studio 2010\Projects\SayTheSong\SayTheSong\SayTheSong\bin\Debug\Interop.SpeechLib.dll
+d:\documents\visual studio 2010\Projects\SayTheSong\SayTheSong\SayTheSong\bin\Debug\SayTheSong.tlb
